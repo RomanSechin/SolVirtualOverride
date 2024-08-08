@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVirtualOverride", "AppVirtualOverride\AppVirtualOverride.csproj", "{BEDEB2D8-7DB2-4BF5-A06A-C18DB9457E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDEB2D8-7DB2-4BF5-A06A-C18DB9457E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDEB2D8-7DB2-4BF5-A06A-C18DB9457E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDEB2D8-7DB2-4BF5-A06A-C18DB9457E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDEB2D8-7DB2-4BF5-A06A-C18DB9457E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3070609-5AD1-48FF-B61E-00F3489A110B}
+	EndGlobalSection
+EndGlobal
